@@ -114,3 +114,14 @@ The complete project report is available in this repository as:
 ## Conclusion
 
 The Smart Waste Segregation System demonstrates how IoT and embedded systems can improve waste management through automation. It provides an efficient, hygienic, and eco-friendly solution for waste segregation and serves as a strong foundation for future smart city applications.
+
+
+## Achievement
+
+This project was awarded ** First Prize** in the **Project Exhibition** organized by **CMR Institute of Technology (CMRIT), Bengaluru** on **23 May 2026**.
+
+The project was recognized for its innovative approach to developing an **IoT-based Smart Waste Segregation System** for efficient and automated waste segregation.
+
+### Award Certificate
+
+![First Prize Certificate](first-prize-certificate.jpg)
