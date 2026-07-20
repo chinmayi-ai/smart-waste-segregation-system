@@ -118,10 +118,10 @@ The Smart Waste Segregation System demonstrates how IoT and embedded systems can
 
 ## Achievement
 
-This project was awarded ** First Prize** in the **Project Exhibition** organized by **CMR Institute of Technology (CMRIT), Bengaluru** on **23 May 2026**.
+This project was awarded **First Prize** in the **Project Exhibition** organized by **CMR Institute of Technology (CMRIT), Bengaluru** on **23 May 2026**.
 
-The project was recognized for its innovative approach to developing an **IoT-based Smart Waste Segregation System** for efficient and automated waste segregation.
+The project was recognized for its innovative approach to developing an IoT-based Smart Waste Segregation System.
 
 ### Award Certificate
 
-![First Prize Certificate](first-prize-certificate.jpg)
+![First Prize Certificate](IMG-20260720-WA0001.jpg)
