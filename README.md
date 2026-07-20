@@ -89,12 +89,12 @@ This project was developed as part of the **Innovation & Design Thinking Laborat
 
 ## Repository Contents
 
-- 📄 Final Project Report (PDF)
-- 📘 README
+- Final Project Report (PDF)
+- README
 
 ---
 
-## 🎓 Institution
+## Institution
 
 **CMR Institute of Technology (CMRIT), Bengaluru**
 
@@ -103,7 +103,7 @@ Affiliated to **Visvesvaraya Technological University (VTU)**
 ---
 
 
-## 📄 Project Report
+## Project Report
 
 The complete project report is available in this repository as:
 
@@ -111,6 +111,6 @@ The complete project report is available in this repository as:
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 The Smart Waste Segregation System demonstrates how IoT and embedded systems can improve waste management through automation. It provides an efficient, hygienic, and eco-friendly solution for waste segregation and serves as a strong foundation for future smart city applications.
